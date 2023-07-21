@@ -41,16 +41,3 @@
   color: #888;
 }
 
-
-.highlight-container {
-  /* Set the styles for the container element (non-highlighted state) */
-  padding: 10px;
-  border: 1px solid #ddd;
-  transition: background-color 0.2s;
-  cursor: pointer;
-}
-
-.highlighted {
-  /* Set the styles for the highlighted state */
-  background-color: rgba(0, 0, 0, 0.5); /* Change the RGBA value to adjust the highlight color and opacity */
-}
